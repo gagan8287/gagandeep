@@ -1,10 +1,4 @@
-/*
 
-Polygon
-
-https://mo.com/tm-400-polygon
-
-*/
 
 html, body {
 	font-family: Tahoma, Arial;
@@ -13,6 +7,9 @@ html, body {
 	color: #e7e7e7;
 	background: white;
 	font-size: 12px;
+}
+#menu-container{
+  margin-top: -100px!important;
 }
 .div-goback{
 	width: 100%;
