@@ -19,7 +19,9 @@ body {
 /*	color:White;*/
   background: #edece8;
 }
-
+.col-md-4{
+  overflow-wrap: break-word;
+}
 #page {
   position: relative;
   overflow-x: hidden;
