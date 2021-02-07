@@ -1,2 +1,2 @@
-# gagandeep
-This is my online Portfolio. Please click <a src="https://gagan8287.github.io/gagandeep/">here</a> to visit.
+# gagandeep.
+This is my online Portfolio. Please click on this link https://gagan8287.github.io/gagandeep/ to visit.
